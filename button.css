@@ -1,0 +1,17 @@
+button{
+    font-size: 20px;
+    border-radius: 20px;
+}
+#btnAzul{
+    background-color: blue;
+}
+#btnAmarela{
+    background-color: yellow;
+}
+#btnTomate{
+    background-color: tomato;
+}
+#btnPreto{
+    background-color: black;
+    color: white;
+}
